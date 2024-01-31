@@ -1,11 +1,11 @@
 {
-  "name": "currency-project",
+  "name": "hassan-currency-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "Hassan machine":"dist/curCon.js"
+    "hassan-machine":"dist/curCon.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
